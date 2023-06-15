@@ -1,0 +1,96 @@
+[
+    {   "name":"Badminton",
+        "rules":"A player must wait until his opponent is ready before serving. If the opponent attempts a return then he is ruled having been ready.
+        The feet of both players must remain in a stationary position until the serve is made. Your feet can not be touching the line at this time.
+        It is not a fault if you miss the shuttle while serving.
+        The shuttle cannot be caught and slung with the racket.
+        A player cannot hold his racket near the net to ward off a downward stroke by his opponent or to interfere with his racket.",
+        "scoring_system":"A match consists of the best of 3 games of 21 points.
+        Every time there is a serve – there is a point scored.
+        The side winning a rally adds a point to its score.
+        At 20 all, the side which gains a 2 point lead first, wins that game.
+        At 29 all, the side scoring the 30th point, wins that game.
+        The side winning a game serves first in the next game."
+    },
+    {   "name":"Football",
+        "rules":"Football (Soccer) is one of the oldest sports in the world and with that; it’s also one of the most recognised. The pinnacle of the international game comes in the form the Football World Cup. There are also tournament such as the Euro Championships, Copa America and the African Cup of Nations. Domestically the strongest leagues come from England (English Premier League), Spain (La Liga), Italy (Serie A) and Germany (Bundesliga). In parts of the world the sport is also known as Soccer.",
+        "scoring_system":"To score the ball must go into your opponent’s goal. The whole ball needs to be over the line for it to be a legitimate goal. A goal can be scored with any part of the body apart from the hand or arm up to the shoulder. The goal itself consists of a frame measuring 8 feet high and 8 yards wide."
+    },
+    {   "name":"Basketball",
+    "rules":"The rules of basketball can vary slightly depending on the level of play (for example professional rules differ from college rules) or where the game is played (international rules are different from USA professional rules). These rule differences, however, are usually just variations on the basic game of basketball and the majority of the rules discussed below can be applied to most any game of basketball played.
+
+    The winner of a basketball game is the team with the most points. You get points by throwing the basketball through the opponent's hoop or basket. In regular play a basket made from within the three point line is worth 2 points and a basket shot from outside the three point line is worth three points. When shooting a free throw, each free throw is worth 1 point.",
+    "scoring_system":"Points can be accumulated by making field goals (two or three points) or free throws (one point). If a player makes a field goal from within the three-point line, the player scores two points. If the player makes a field goal from beyond the three-point line, the player scores three points."
+   },
+   {   "name":"Cricket",
+    "rules":"Cricket is a game played between two teams made up of eleven players each. There is also a reserve player called a “twelfth man” who is used should a player be injured during play.
+
+    The twelfth man is not allowed to bowl, bat, wicket keep or captain the team. His sole duty is to act as a substitute fielder.
+    
+    The original player is free to return to the game as soon as they have recovered from their injury.
+    
+    
+    To apply the law and make sure the cricket rules are upheld throughout the game there are two umpires in place during games. Umpires are responsible for making decisions and notifying the scorers of these decisions.
+    
+    Two umpires are in place on the playing field while there is also a third umpire off the field who is in charge of video decisions.
+    
+    This is where the call is too close for the on field umpires and they refer it to the third umpire who reviews slow motion video replays to make a decision.
+    
+    ",
+    "scoring_system":"The aim of the batsmen is to score runs. One of the main cricket rules is that for batsmen to score runs they must run to each other’s end of the pitch (from one end to the other). In doing this one run is scored. Cricket rules state they may run multiple runs per shot. As well as running they can also score runs by hitting boundaries. A boundary scores the batsmen either 4 or 6 runs. A four is scored by hitting the ball past the boundary after hitting the ground while a six is scored by hitting the ball past the boundary on the full (before it hits the ground). Cricket rules also state that once a 4 or 6 has been scored any runs physically ran by the batsman are null & void. They will only obtain the 4 or 6 runs.
+
+    Other ways runs can be scored according to the cricket rules include no balls, wide balls, byes & leg byes. Cricket rules state that all runs scored by these methods are awarded to the batting team but not the individual batters.
+    
+    A “No Ball” can be declared for many reasons: If the bowler bowls the ball from the wrong place, the ball is declared dangerous (often happens when bowled at the batsmen’s body on the full), bounces more than twice or rolls before reaching the batsman or if fielders are standing in illegal positions. The batsman can hit a no ball and score runs off it but cannot be out from a no ball except if they are ran out, hit the ball twice, handle the ball or obstruct the field. The batsman gains any runs scored off the no ball for his shot while the team also gains one run for the no ball itself.
+    A “Wide Ball” will be declared if the umpire thinks the batsman did not have a reasonable opportunity to score off the delivery. However if the delivery is bowled over the batsmen’s head it will not be declared a wide but a no ball. Umpires are much stricter on wide deliveries in the shorter format of the game while being much more relaxed in test cricket. A wide delivery will add one run to the batting team and any runs scored by the batsman. The batsman is not able to get out off a wide delivery except if they are stumped, run out, handle the ball, hit their wicket or obstruct the field.
+    A “Bye” is where a ball that isn’t a no ball or wide passes the striking batsman and runs are scored without the batsman hitting the ball.
+    A “Leg Bye” is where runs are scored by hitting the batsman, but not the bat and the ball is not a no ball or wide. However no runs can be scored if the striking batsman didn’t attempt to play a shot or if he was avoiding the ball.
+    "
+   },
+   {   "name":"Hockey",
+    "rules":"Hockey players can only hit the ball with the flat side of their stick.
+    Hockey players (other than the goalkeeper) are not allowed to use their feet, or any other parts of the body, to control the ball at any time.
+    A goal can only be scored either from a field goal, a penalty corner, or from a penalty stroke. A field goal is a goal scored from open play, and can only be scored from inside the ‘striking circle’, in front of the opponent's goal. If the hockey ball is hit from outside the circle and goes into the goal, it does not count as a goal.
+    Hockey players may not trip, push, charge, interfere with, or physically handle an opponent in any way. Hockey is a non-contact sport and all fouls result in a free hit or a ‘penalty corner’ for the non-offending team depending on where the infringement took place and the severity of the foul.",
+    "scoring_system":"A number of different types of foul may be punished in a game of hockey. Some of the basic ones to watch out for include.
+
+    Obstruction. This is awarded against a hockey player who uses their body or stick to prevent an opponent from reaching the ball.
+    Third-party obstruction. This is awarded when a hockey player positions themselves between the ball and an opponent, allowing a team-mate an unobstructed play on the ball.
+    Advancing. This is awarded against a player who shoves, pushes, or advances the ball in any way, using any part of their body.
+    Backsticks. This is awarded against a player who strikes the ball with the rounded back of the hockey stick.
+    Hockey stick interference. This is awarded against a player who uses their stick to hit an opponent’s stick, either intentionally or unintentionally.
+    Undercutting. This is awarded against a player who lifts the ball in a dangerous manner.
+    Sticks. This is awarded against a player who raises their stick dangerously near another player.
+    "
+   },
+   {   "name":"VolleyBall",
+   "rules":"Here are the fundamental, must-know rules of a volleyball game:
+
+   Only 6 players on the floor at any given time: 3 in the front row and 3 in the back row.
+   Points are made on every serve for the winning team of the rally (rally-point scoring).
+   Players may not hit the ball twice in succession (a block is not considered a hit).
+   Ball may be played off the net during a volley and on a serve.
+   A ball hitting a boundary line is in.
+   A ball is out if it hits an antennae, the floor completely outside the court, any of the net or cables outside the antennae, the referee stand or pole, or the ceiling above a non-playable area.
+   It is legal to contact the ball with any part of a player’s body.
+   It is illegal to catch, hold or throw the ball.
+   A player cannot block or attack a serve from on or inside the 10-foot line.
+   After the serve, front-line players may switch positions at the net.
+   Matches are made up of sets; the number depends on level of play.",
+   "scoring_system":"   A volleyball game consists of two teams of six players each, separated by a net. The six volleyball court positions are setter, middle blocker, outside hitter, opposite hitter, libero and serving specialist.
+   
+   To start, flip a coin to determine which team serves the ball first.
+   
+   Then the two teams will rally—or hit the ball back and forth over the net—until a fault occurs. There is a maximum of three hits per side.
+   
+   The objective is to score points by sending the ball over the net, grounding it into the opponent’s court.
+   
+   Volleyball matches are made up of sets, typically three or five sets.
+   
+   Three-set matches are two sets to 25 points and a third set to 15 points. Each set must be won by two points. The first team to win two sets is the winner of the match.
+   
+   Five-set matches are four sets to 25 points and a fifth set to 15 points. The team must win by two points unless tournament rules dictate otherwise. The first team to win three sets is the winner."
+  }
+ 
+    
+]
